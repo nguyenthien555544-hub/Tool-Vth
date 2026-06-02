@@ -1,1 +1,2 @@
 import tool
+tool.main()
